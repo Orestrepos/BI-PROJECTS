@@ -47,24 +47,25 @@ Capturas de interacción con los datos:
 
 ## Insights clave  
 
-A partir del análisis de la información, se identifica una disrupción en el comportamiento de las ventas a inicios del año 2019, seguida de un proceso de recuperación y estabilización a partir de enero de 2020, lo que sugiere un cambio relevante en la dinámica comercial de la empresa durante dicho período. 
+A partir del análisis de la información, se identifica una disrupción en el comportamiento de las ventas a inicios del año 2019, seguida de un proceso de recuperación y estabilización a partir de enero de 2020. Este comportamiento sugiere un cambio estructural en la dinámica comercial de la empresa, lo que resalta la importancia de fortalecer las estrategias de retención y crecimiento de clientes en el período posterior a la estabilización.
 
-El análisis del comportamiento de compra de los clientes permitió realizar una segmentación automática en tres grupos, diferenciados por su frecuencia de compra y nivel de gasto: 
+El análisis del comportamiento de compra permitió segmentar a los clientes en tres grupos, diferenciados por su frecuencia de compra y nivel de gasto, lo que facilita la definición de estrategias comerciales diferenciadas:
 
-- Cluster 1 – Clientes de bajo ticket: 
-Corresponden a clientes con alta frecuencia de compra, concentrados en productos de bajo valor unitario, con un ticket promedio aproximado de 98 €. Este grupo aporta volumen de transacciones, aunque con menor impacto individual en ingresos, a los cuales se les podrían aplicar estrategias de cross-selling. 
+Cluster 1 – Clientes de bajo ticket
+Este grupo se caracteriza por una alta frecuencia de compra y un ticket promedio aproximado de 98 €. Si bien su aporte individual a los ingresos es bajo, generan un alto volumen de transacciones. Para este segmento, se recomienda implementar estrategias de cross-selling orientadas a incrementar el valor del carrito de compra y maximizar el ingreso por cliente.
 
-- Cluster 2 – Clientes Premium: 
-Se caracterizan por una frecuencia de compra moderada, pero orientada a productos de alto valor, con un ticket promedio cercano a 2.338 €. A pesar de realizar menos compras, este segmento representa un alto aporte al beneficio de la empresa. Dado su valor, se recomienda aplicar estrategias de fidelización que incluyan mayores beneficios e incluso atención personalizada. 
+Cluster 2 – Clientes Premium
+Los clientes premium presentan una frecuencia de compra moderada, pero con un ticket promedio elevado, cercano a 2.338 €, lo que los convierte en un segmento de alto valor para la compañía. Dado su impacto significativo en los ingresos, se recomienda priorizar estrategias de fidelización, beneficios exclusivos y atención personalizada, con el objetivo de preservar y potenciar su contribución al negocio.
 
-- Cluster 3 – Clientes Frecuentes: 
-Presentan una frecuencia de compra sostenida y un ticket promedio medio, alrededor de 963 €, lo que los convierte en un segmento estable y relevante para el crecimiento continuo del negocio. Dada su frecuencia de compra, se podrían aplicar estrategias de cross-selling junto con estrategias de fidelización como brindar puntos por compras.  
+Cluster 3 – Clientes Frecuentes
+Este segmento muestra una frecuencia de compra sostenida y un ticket promedio medio de aproximadamente 963 €, consolidándose como un grupo estable y relevante para el crecimiento del negocio. Para estos clientes, se sugiere combinar estrategias de cross-selling con programas de fidelización, como sistemas de puntos o recompensas por recurrencia.
 
-De manera transversal a los tres segmentos, la categoría Bicicletas se posiciona como la de mayor desempeño comercial, concentrando los productos top sellers en todos los clusters analizados. 
+De manera transversal a los tres segmentos, la categoría Bicicletas se posiciona como la de mayor desempeño comercial, concentrando los productos top sellers en todos los clusters. Esto indica que dicha categoría debe mantenerse como eje central de las estrategias comerciales y promocionales.
 
-En cuanto a los down sellers, se identifica la necesidad de evaluar su rentabilidad, con el fin de determinar si es conveniente diseñar estrategias comerciales específicas o reconsiderar su permanencia dentro del portafolio de productos. 
+Respecto a los down sellers, se identifica la necesidad de evaluar su rentabilidad financiera, con el fin de determinar si es conveniente diseñar acciones de impulso específicas o reconsiderar su permanencia dentro del portafolio de productos.
 
- 
+En conjunto, estos hallazgos permiten comprender el comportamiento de los clientes y constituyen una base sólida para la toma de decisiones comerciales. Como siguiente paso, se recomienda complementar el análisis con información financiera detallada que permita evaluar la rentabilidad por producto y segmento, alineando las estrategias comerciales con la generación de valor para la empresa.
+
 ## Herramientas utilizadas 
 
 Power BI y Power Query: modelado de datos, creación de medidas y visualización de información. 
@@ -78,6 +79,4 @@ El dashboard desarrollado permite:
 - Identificar los productos top sellers y down sellers, tanto a nivel general como de forma segmentada, aplicando filtros por región, categoría y cluster, lo que brinda una visión integral para la toma de decisiones comerciales. 
 
 
-## Documentación completa
-[Análisis Comercial BI (PDF)](Analisis_comercial.pdf)
  
