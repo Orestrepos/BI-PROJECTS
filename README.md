@@ -1,4 +1,4 @@
-# BI-PROJECTS
+# SALES_PERFORMANCE_PROJECT
 # Análisis Comercial – Business Intelligence
 
 ## Descripción del proyecto 
